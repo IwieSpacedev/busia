@@ -4,16 +4,14 @@ export default function Contacto() {
   return (
     <div>
       
-      <div className="hero bg-base-200 min-h-screen">
+      <div className="hero bg-base-200 min-h-screen" >
   <div className="">
     <div className="hero bg-base-200 min-h-screen">
   <div className="hero-content flex-col lg:flex-row-reverse">
     <div className="text-center lg:text-left">
-      <h1 className="text-5xl font-bold">Login now!</h1>
-      <p className="py-6">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
-      </p>
+    {/* <img
+      src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
+      className="max-w-sm rounded-lg shadow-2xl" /> */}
     </div>
     <div className="card bg-base-100 cont shrink-0 shadow-2xl" >
     <h1 className="text-5xl font-bold" style={{textAlign:'center', paddingTop:'20px'}}>Contacto</h1>
@@ -70,6 +68,7 @@ export default function Contacto() {
         </div>
       </form>
     </div>
+    
   </div>
 </div>
   </div>

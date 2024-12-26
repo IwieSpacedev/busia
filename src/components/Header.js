@@ -12,7 +12,7 @@ export default function Header() {
       <li><a>Inicio</a></li>
       <li><a>Nosotros</a></li>
       <li><a>Contacto</a></li>
-      <li><a>Login</a></li>
+      <li><a>Cuenta</a></li>
       {/* <li>
         <details>
           <summary>Parent</summary>

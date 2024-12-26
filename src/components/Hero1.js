@@ -11,12 +11,12 @@ export default function Hero1() {
   <div className="hero-overlay bg-opacity-60"></div>
   <div className="hero-content text-neutral-content text-center">
     <div className="max-w-md">
-      <h1 className="mb-5 text-5xl font-bold">Hello there</h1>
-      <p className="mb-5">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
+      <h1 style={{color:'white'}} className="mb-5 text-5xl font-bold">Revolucionando el Transporte en Chile</h1>
+      <p style={{color:'white'}} className="mb-5">
+      Busia.cl es una plataforma tecnológica innovadora que está transformando la forma en que las personas se desplazan en Chile.
+
       </p>
-      <button className="btn btn-primary">Get Started</button>
+      <button className="btn btn-primary">Quiero saber más</button>
     </div>
   </div>
 </div>
