@@ -1,6 +1,40 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.cont-l{
+  left:2rem !important;
+}
+.bus-r{
+  width: 38rem !important;
+}
+
+.sep{
+  gap: 7rem !important;
+}
+.fondito{
+  background-color: #1a1d2252;
+  
+}
+.background-i {
+  
+  background-image: url('/public/img/2.webp');
+  background-size: cover; /* Asegura que la imagen cubra todo el contenedor */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  height: 100vh; /* La altura será igual a la altura de la ventana del navegador */
+  display: flex; /* Centra el contenido */
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+
+
+
+
+
+
 .top-pegado{
   position: fixed;
   z-index: 2;

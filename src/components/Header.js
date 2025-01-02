@@ -5,7 +5,7 @@ export default function Header() {
     <div>
       <div className="navbar top-pegado bg-base-100">
   <div className="flex-1">
-    <a className="btn btn-ghost text-xl">Busia</a>
+    <a className="btn btn-ghost text-xl">BusIA</a>
   </div>
   <div className="flex-auto">
     <ul className="menu menu-horizontal px-1">

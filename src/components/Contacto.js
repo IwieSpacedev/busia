@@ -2,18 +2,19 @@ import React from 'react'
 
 export default function Contacto() {
   return (
-    <div>
+    <div className=''>
       
       <div className="hero bg-base-200 min-h-screen" >
   <div className="">
-    <div className="hero bg-base-200 min-h-screen">
-  <div className="hero-content flex-col lg:flex-row-reverse">
+    <div className="hero  min-h-screen">
+  <div className="hero-content sep flex-col lg:flex-row-reverse">
     <div className="text-center lg:text-left">
-    {/* <img
-      src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
-      className="max-w-sm rounded-lg shadow-2xl" /> */}
+    <img
+      src="img/13.jpg"
+      className="bus-r  rounded-lg shadow-2xl" />
+       
     </div>
-    <div className="card bg-base-100 cont shrink-0 shadow-2xl" >
+    <div className="card cont-l bg-base-100 cont shrink-0 shadow-2xl" >
     <h1 className="text-5xl font-bold" style={{textAlign:'center', paddingTop:'20px'}}>Contacto</h1>
       <form className="card-body" style={{paddingTop:'30px'}}>
       <div className="form-control">
