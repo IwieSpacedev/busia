@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 import Hero1 from './components/Hero1';
 import Contacto from './components/Contacto';
 import Nosotros from './components/Nosotros';
+import Servicios from './components/Servicios';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Route exact path='/'>
          <Header />
          <Hero1 />
+         <Servicios />
          <Nosotros />
          <Contacto />
          <Footer />
