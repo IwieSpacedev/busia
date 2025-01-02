@@ -3,7 +3,7 @@ import React from 'react'
 export default function Header() {
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar top-pegado bg-base-100">
   <div className="flex-1">
     <a className="btn btn-ghost text-xl">Busia</a>
   </div>
